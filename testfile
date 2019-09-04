@@ -1,3 +1,15 @@
-test
-another test
-test testbranch
+#test
+#another test
+
+#test testbranch
+
+# import section
+
+import pandas as pd
+import os
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from collections import Counter
+from sklearn.preprocessing import OneHotEncoder, LabelEncoder
+import missingno
